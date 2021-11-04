@@ -1,0 +1,170 @@
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\CCTP.exe.config
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\CCTP.exe
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\CCTP.pdb
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\MainWindow.g.cs
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\App.g.cs
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\CCTP_MarkupCompile.cache
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\CCTP_MarkupCompile.lref
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\MainWindow.baml
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\CCTP.g.resources
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\CCTP.Properties.Resources.resources
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\CCTP.csproj.GenerateResource.Cache
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\CCTP.exe
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\obj\Debug\CCTP.pdb
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+c:\users\safelink\documents\visual studio 2015\Projects\CCTP\CCTP\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\cross.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\cross.baml
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\rhombus.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\rhombus.baml
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\ColorCanvasAndPicker.baml
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\ColorCanvasAndPicker.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\circle.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\circle.baml
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\rectangle.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\rectangle.baml
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\triangle.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\triangle.baml
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\line.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\line.baml
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\hexagon.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\hexagon.baml
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\pentagon.g.cs
+C:\Users\Safelink\Documents\Visual Studio 2015\Projects\CCTP\CCTP\obj\Debug\pentagon.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\CCTP.exe.config
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\CCTP.exe
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\CCTP.pdb
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\CCTP.exe
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\CCTP.pdb
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\ColorCanvasAndPicker.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\circle.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\ColorCanvasAndPicker.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\cross.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\hexagon.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\line.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\MainWindow.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\pentagon.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\rectangle.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\rhombus.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\triangle.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\App.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\CCTP_MarkupCompile.cache
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\CCTP_MarkupCompile.lref
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\circle.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\cross.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\hexagon.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\line.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\MainWindow.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\pentagon.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\rectangle.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\rhombus.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\triangle.baml
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\CCTP.g.resources
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\CCTP.Properties.Resources.resources
+C:\Users\Quality pc\Desktop\CCTP\CCTP\CCTP\obj\Debug\CCTP.csproj.GenerateResource.Cache
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\CCTP.exe.config
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.exe
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.pdb
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\ColorCanvasAndPicker.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\circle.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\ColorCanvasAndPicker.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\cross.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\hexagon.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\line.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\MainWindow.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\pentagon.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\rectangle.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\rhombus.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\triangle.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\App.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP_MarkupCompile.cache
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP_MarkupCompile.lref
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\CCTP.exe
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\CCTP.pdb
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\circle.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\cross.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\hexagon.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\line.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\MainWindow.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\pentagon.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\rectangle.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\rhombus.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\triangle.baml
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.g.resources
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.Properties.Resources.resources
+C:\Users\Catherine Udokisai\Desktop\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\CCTP.exe.config
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.exe
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.pdb
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\CCTP.exe
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\CCTP.pdb
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\ColorCanvasAndPicker.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\circle.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\ColorCanvasAndPicker.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\cross.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\hexagon.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\line.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\pentagon.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\rectangle.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\rhombus.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\triangle.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP_MarkupCompile.cache
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP_MarkupCompile.lref
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\circle.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\cross.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\hexagon.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\line.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\pentagon.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\rectangle.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\rhombus.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\triangle.baml
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.g.resources
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.Properties.Resources.resources
+C:\Users\hp\Desktop\BACKUP 2\Affysfiles\CCTP\CCTP\CCTP\CCTP\CCTP\CCTP\obj\Debug\CCTP.csproj.GenerateResource.Cache

@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="CCTP.rhombus"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CCTP"
+             mc:Ignorable="d" 
+             d:DesignHeight="68" d:DesignWidth="68">
+    <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+        <Viewbox VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Stretch="Fill">
+            <Grid>
+                <Line X1="0" X2="34" Y1="34" Y2="0" Stroke="White" StrokeThickness="1"/>
+                <Line X1="34" X2="68" Y1="0" Y2="34" Stroke="White" StrokeThickness="1"/>
+                <Line X1="68" X2="34" Y1="34" Y2="68" Stroke="White" StrokeThickness="1"/>
+                <Line X1="1" X2="34" Y1="34" Y2="68" Stroke="White" StrokeThickness="1"/>
+            </Grid>
+        </Viewbox>    
+    </Grid>
+</UserControl>

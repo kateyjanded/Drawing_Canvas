@@ -1,0 +1,15 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CCTP"
+             xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Class="CCTP.triangle"
+             mc:Ignorable="d" 
+             d:DesignHeight="68" d:DesignWidth="68">
+    <Grid >
+        <Viewbox Stretch="Fill" >
+            <ed:RegularPolygon Height="68" InnerRadius="1" PointCount="3"  Stroke="White" Width="68"/>
+        </Viewbox>
+    </Grid>
+</UserControl>

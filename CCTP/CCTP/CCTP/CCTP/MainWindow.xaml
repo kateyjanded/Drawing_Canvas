@@ -1,0 +1,59 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CCTP"
+        xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="CCTP.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280" WindowState="Maximized">
+
+    <Grid Background="#FF13264D">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Canvas Background="#FF04233C" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" Height="21.968" VerticalAlignment="Top"/>
+        <Canvas Background="#FFA5C5DE" d:LayoutOverrides="LeftMargin, RightMargin" Margin="0,21.968,0,0" Height="117.032" VerticalAlignment="Top">
+            <ComboBox x:Name="comboBox_Copy1" Canvas.Left="836" Canvas.Top="48" Width="175" Focusable="False" Background="#FF13264D" BorderBrush="#FF13264D">
+                <ComboBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel IsItemsHost="True" Background="#FF13264D"/>
+                    </ItemsPanelTemplate>
+                </ComboBox.ItemsPanel>
+                <ListBoxItem Background="#FF13264D" Content="Select first item" Foreground="White"/>
+                <ListBoxItem Content="Select last item" Foreground="White"/>
+                <ListBoxItem Content="Select middle item" Foreground="White"/>
+                <ListBoxItem Content="Select all items" Foreground="White"/>
+            </ComboBox>
+            <Button x:Name="btnLoad" Content="Load" Canvas.Left="1160" Canvas.Top="25.05" Width="75" ClipToBounds="True"/>
+            <Button x:Name="btnsave" Content="Save" Canvas.Left="1160" Canvas.Top="63.51" Width="75" ClipToBounds="True"/>
+            <Label x:Name="label" Content="Stroke Color" Canvas.Left="38" Canvas.Top="45.56"/>
+            <Label x:Name="label_Copy" Content="Fill Color" Canvas.Left="389" Canvas.Top="45.56"/>
+            <Label x:Name="label_Copy1" Content="Selection Criteria" Canvas.Left="731.503" Canvas.Top="45.56"/>
+            <Label x:Name="label1" Content="Colour Properties" Canvas.Left="337" Canvas.Top="86" Width="145"/>
+            <Label x:Name="label2" Content="Selection" Canvas.Left="787" Canvas.Top="86" Width="103"/>
+            <xctk:ColorPicker x:Name="fillcolor" Canvas.Left="458" Canvas.Top="48" Width="175" SelectedColor="White"/>
+            <xctk:ColorPicker x:Name="strkcolor" Canvas.Left="128" Canvas.Top="48" Width="175" SelectedColor="White"/>
+        </Canvas>
+        <Canvas x:Name="drawingcanvas" Margin="337,139,342.836,29.04" Background="White" AllowDrop="True"  Drop="drawingcanvas_Drop"  />
+        <GroupBox x:Name="toolbox" Header="ToolBox" Margin="0,139,0,29.04" FontSize="18" Foreground="White" d:LayoutOverrides="LeftMargin, RightMargin" HorizontalAlignment="Left" Width="337">
+            <Canvas Margin="-2,0,-2,-2.495">
+                <local:cross Canvas.Left="172" Canvas.Top="101" Width="55" Height="64"/>
+                <local:rhombus Canvas.Left="237" Canvas.Top="94" Height="71" Width="79" />
+                <local:circle x:Name="circleUI" Canvas.Left="3" Canvas.Top="14" Width="75" Height="68" Isdraggable="False"/>
+                <local:hexagon x:Name="hex" Canvas.Left="83" Canvas.Top="14"/>
+                <local:rectangle Canvas.Left="164" Canvas.Top="16" Height="66" Width="63"/>
+                <local:triangle Canvas.Left="249" Canvas.Top="14"/>
+                <local:line Canvas.Left="91" Canvas.Top="101"/>
+                <local:pentagon Canvas.Left="10" Canvas.Top="101.353"/>
+            </Canvas>
+        </GroupBox>
+        <GroupBox x:Name="item_panel" Header="Item Panel" Margin="0,140,0,28.04" FontSize="18" Foreground="White" HorizontalAlignment="Right" Width="342.836">
+            <Canvas Margin="-2,0,-2,-2.495"/>
+        </GroupBox>
+        <Canvas Height="25" Width="Auto" Background="Black" Margin="0,0,2,2.04" VerticalAlignment="Bottom" d:LayoutOverrides="Height"/>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="CCTP.cross"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CCTP"
+             mc:Ignorable="d" 
+             d:DesignHeight="68" d:DesignWidth="68">
+    <Grid>
+        <Viewbox Stretch="Fill">
+            <Grid>
+                <Polygon x:Name="CrossUI" Height="68" Width="68"  Points="0, 50 50, 50 50, 0 100, 0 100, 50 150, 50 150,100 100,100 100,150 50,150 50,100 0, 100" Stroke="White" StrokeThickness="3" Stretch="Fill" Fill="Transparent"/>
+            </Grid>
+        </Viewbox>
+    </Grid>
+</UserControl>
